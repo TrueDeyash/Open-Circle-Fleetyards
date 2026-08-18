@@ -1,0 +1,131 @@
+body{
+    color: yellow;
+    background-color:black;
+}
+
+.Container1{
+    display: flex;
+    text-align: center;
+    margin-left: 700px;
+}
+.container{
+    display: flex;
+}
+
+a{
+    border: 2px yellow solid;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    max-width: none;
+}
+
+nav a {
+    flex: 1;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+}
+
+.content{
+    display: grid;
+
+}
+
+.main-image{
+    width: 100%;
+    max-width: 740px;
+    height: auto;
+    display: block;
+    margin-left: 1098px;
+    margin-top: -494px;
+    border: 3px yellow solid;
+}
+
+.Desc{
+    text-align: center;
+    margin-right: 1000px;
+    border: 2px yellow solid;
+
+}
+
+.Copywrite{
+    text-align: center;
+    margin-right: 1000px;
+    border: 2px yellow solid;
+}
+
+.Product_Img{
+    width: 100%;
+    margin-top: 50px;
+    max-width: 600px;
+    min-width: 600px;
+    height: auto;
+    display: block;
+    border: 3px yellow solid;
+}
+
+.Flex1{
+    flex: 1;
+}
+
+.content{
+        padding: 16px;
+}
+
+.title {
+  font-size: 1.2rem;
+  margin: 0 0 8px 0;
+  color: yellow;
+}
+
+.description {
+  font-size: 0.9rem;
+  color: yellow;
+}
+
+.price {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #2bcb5c;
+}
+
+.Margin{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.Contact{
+    text-align: center;
+    font-weight: 500px;
+    font-size: 25px;
+}
+
+.Contact_Desc{
+     text-align: center;
+     font-size: 25px;
+}
+
+.Email{
+    text-align: center;
+}
+
+.Email_Submit{
+    text-align: center;
+}
+
+.submission{
+    align-items: center;
+}
+
+.main-image2{
+    width: 100%;
+    max-width: 740px;
+    height: auto;
+    display: block;
+    margin-left: 1098px;
+    margin-top: -2px;
+    border: 3px yellow solid;
+}
