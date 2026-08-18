@@ -129,3 +129,26 @@ nav a {
     margin-top: -2px;
     border: 3px yellow solid;
 }
+
+.logos{
+    width: 50%;
+    max-width: 200px;
+    height: auto;
+    display: flex;
+    margin-left: 0px;
+    margin-top: -470px;
+}
+
+.noborder{
+    border: none;
+}
+
+.Medialogo{
+    max-width: 150px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.Instagram{
+    width: 100px;
+}
